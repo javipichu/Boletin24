@@ -13,7 +13,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author finfanterodal
+ * @author jalvarezotero
  */
 public class Panel1 {
 

@@ -9,7 +9,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author finfanterodal
+ * @author jalvarezotero
  */
 public class GUI {
 

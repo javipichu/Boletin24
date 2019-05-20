@@ -2,7 +2,7 @@ package boletin24;
 
 /**
  *
- * @author finfanterodal
+ * @author jalvarezotero
  */
 public class Boletin24 {
 

@@ -2,7 +2,7 @@ package boletin24;
 
 /**
  *
- * @author finfanterodal
+ * @author jalvarezotero
  */
 public class Ventana1 extends javax.swing.JFrame {
 
